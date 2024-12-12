@@ -5,7 +5,7 @@ En este repositorio se sube la tarea en equipo de fondos de amortizacion
 [Index HTML](https://broref.github.io/Fondos_de_amortizacion/)
 
 ### Archivo Quarto
-[Presentacion Quarto](https://broref.github.io/Fondos_de_amortizacion/Presentacion_FondosDeAmortizacion.qmd)
+[Presentacion Quarto](https://broref.github.io/Fondos_de_amortizacion/Presentacion_FondosDeAmortizacion.html)
 
 ### Link a posit cloud
 [Archivos en posit cloud](https://posit.cloud/content/9425009)
